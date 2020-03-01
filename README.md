@@ -6,7 +6,7 @@ Obtén la temperatura del sensor con Arduino.
 - Tener el material para hacer el proyecto
 
 ### Código
-**[Aqui](https://github.com/proyectoTEOS/Sensor-de-temperatura-LM35-con-Arduino/blob/master/Sensor-de-temperatura-LM35-con-Arduino.ino)** podrás obtener el link del código, también dejaremos
+**[Aqui](https://github.com/proyectoTEOS/Sensor-de-temperatura-LM35/blob/master/Sensor-de-temperatura-LM35-con-Arduino.ino)** podrás obtener el link del código, también dejaremos
 una vista previa aquí abajo.
 
 ```c++
@@ -47,4 +47,4 @@ void loop() {
 
 ### Diagrama
 El siguiente esquemático muestra como se debe conectar todos los componentes con la placa.
-![](https://github.com/proyectoTEOS/Sensor-de-temperatura-LM35-con-Arduino/blob/master/Sensor-de-temperatura-LM35-con-Arduino.jpg)
+![](https://github.com/proyectoTEOS/Sensor-de-temperatura-LM35/blob/master/Sensor-de-temperatura-LM35-con-Arduino.jpg)
